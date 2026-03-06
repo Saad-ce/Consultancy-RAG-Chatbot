@@ -1,0 +1,45 @@
+Got it — here’s a **concise URL-only list**, grouped by paper type:
+
+---
+
+### **Core RAG / LLM Papers**
+
+* Lewis et al. (2020) – [https://proceedings.neurips.cc](https://proceedings.neurips.cc)
+* Borgeaud et al. (2022) – [https://proceedings.mlr.press](https://proceedings.mlr.press)
+* Izacard et al. (2023) – [https://jmlr.org](https://jmlr.org)
+* Mansurova et al. (2024) – [https://doi.org/10.3390/bdcc8090115](https://doi.org/10.3390/bdcc8090115)
+* He et al. (2023) – [https://arxiv.org/abs/2301.00303](https://arxiv.org/abs/2301.00303)
+* Li et al. (2025) – [https://arxiv.org](https://arxiv.org)
+
+---
+
+### **Evaluation & Hallucination Mitigation**
+
+* Islam Tonmoy et al. (2024) – [https://arxiv.org](https://arxiv.org)
+* Es et al. (2025) – [https://arxiv.org](https://arxiv.org)
+* Zheng et al. (2023) – [https://papers.nips.cc](https://papers.nips.cc)
+
+---
+
+### **Hybrid Retrieval & Applied RAG**
+
+* Rao et al. (2025) – [https://arxiv.org](https://arxiv.org)
+* Packowski et al. (2024) – [https://arxiv.org](https://arxiv.org)
+* Klesel & Wittmann (2025) – [https://link.springer.com](https://link.springer.com)
+* Lee et al. (2024) – [https://mdpi.com](https://mdpi.com)
+
+---
+
+### **Consultancy / Knowledge Management (Problem Domain)**
+
+* Mirafzal et al. (2024) – [https://www.researchgate.net/publication/383713885\_Knowledge\_management\_in\_consulting\_firms\_a\_proposed\_model\_for\_designers](https://www.researchgate.net/publication/383713885_Knowledge_management_in_consulting_firms_a_proposed_model_for_designers)
+* Mainga (2009) – [https://www.diva-portal.org/smash/get/diva2%3A145350/FULLTEXT01.pdf](https://www.diva-portal.org/smash/get/diva2%3A145350/FULLTEXT01.pdf)
+* Aamodt & Plaza – [https://www.iiia.csic.es/\~enric/papers/AICom.pdf](https://www.iiia.csic.es/~enric/papers/AICom.pdf)
+* Coners (2018) – [https://www.sciencesphere.org/ijispm/archive/ijispm-060202.pdf](https://www.sciencesphere.org/ijispm/archive/ijispm-060202.pdf)
+* Carro Saavedra (2020) – [https://mediatum.ub.tum.de/doc/1524123/1524123.pdf](https://mediatum.ub.tum.de/doc/1524123/1524123.pdf)
+* Dingsøyr et al. (2019a) – [https://arxiv.org/abs/1903.11854](https://arxiv.org/abs/1903.11854)
+* Dingsøyr et al. (2019b) – [https://arxiv.org/abs/1903.01889](https://arxiv.org/abs/1903.01889)
+
+---
+
+Do you want me to also **flatten this into one continuous `.txt` list (no grouping, just URLs)** so you can copy-paste into a browser quickly?

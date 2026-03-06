@@ -1,0 +1,8 @@
+langchain
+langchain-community
+unstructured[all-docs]
+faiss-cpu
+transformers
+torch
+sentence-transformers
+accelerate
