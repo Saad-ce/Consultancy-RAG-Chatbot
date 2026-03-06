@@ -1,6 +1,9 @@
 # Project Name
 Consultancy RAG Chatbot
 
+> This is an older project I built during my Masters. Uploading to document my progress.
+
+
 ## Description
 This project is an AI-powered Retrieval-Augmented Generation (RAG) system designed to act as a Senior Consultant. It extracts knowledge from internal company documents (PDF, DOCX, PPTX) and uses a vector database to provide context-aware answers to client inquiries. The system features a multi-turn conversation logic that remembers chat history and uses a "follow-up" mode to maintain context during long discussions.
 
